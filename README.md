@@ -1,4 +1,6 @@
 # Neural_Networks_Learning_Systems
+NOTE: The repository contains the Python Notebooks converted in HTML format.
+
 This repository contains the following programs written in python using NumPy only:
 1. K-Nearest Neigbours Algorithm
 2. Single Layer Neural Network
